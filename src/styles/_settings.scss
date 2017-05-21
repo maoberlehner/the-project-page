@@ -1,0 +1,22 @@
+@import '~@avalanche/setting-colors';
+@import '~@avalanche/setting-spacings';
+
+/// Default colors.
+/// @type Map
+$colors: (
+  a: #ff5722,
+  b: #2364aa,
+  c: #73bfb8,
+  d: #fec601,
+  e: #ea7317,
+);
+
+/// Contrast colors.
+/// @type Map
+$colors-contrast: (
+  a: #fff,
+  b: #fff,
+  c: #fff,
+  d: #fff,
+  e: #fff,
+);
