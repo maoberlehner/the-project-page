@@ -52,7 +52,7 @@ exports.cssLoaders = function (options) {
     less: generateLoaders('less'),
     sass: generateLoaders('sass', {
       indentedSyntax: true,
-      importer: nodeSassMagicImporter({ disableImportOnce: true })
+      importer: nodeSassMagicImporter()
     }),
     scss: generateLoaders('sass'),
     stylus: generateLoaders('stylus'),
