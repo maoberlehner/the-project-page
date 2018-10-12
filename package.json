@@ -9,7 +9,7 @@
     "@avalanche/setting-colors": "^4.0.0-alpha.4",
     "@avalanche/setting-spacings": "^4.0.0-alpha.5",
     "normalize-scss": "^7.0.1",
-    "vue": "^2.5.13",
+    "vue": "^2.5.17",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
